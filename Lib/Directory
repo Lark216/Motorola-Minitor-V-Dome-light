@@ -1,0 +1,8 @@
+NeoPixel Library for CircuitPython
+The NeoPixel library provides support for controlling RGB and RGBW NeoPixel (WS2812, SK6812, etc.) LEDs with CircuitPython. 
+It allows you to easily set pixel colors, adjust brightness, and control strips or matrices of NeoPixels with minimal code.
+
+You can import and use this library by placing the neopixel.mpy file into the lib folder on your CircuitPython device.
+
+Library URL: https://circuitpython.org/libraries
+    - neopixel.mpy
