@@ -9,14 +9,14 @@ Features:
 - Runs on circuitPython for easy cutomization.
 
 Hardware Setup:
--Monorola Minitor V base station
-  -accessory port relay: pins2 & 3
--Adafruit KB2040 Featherboard
-  -D0 = Trigger input from relay
-  -GND = Relay Ground
-  -D10 = NeoPixel Data pin
-  3.3v (USB-C) = NeoPixel V+
--NeoPixel RGBW LED
+- Monorola Minitor V base station
+  - accessory port relay: pins2 & 3
+- Adafruit KB2040 Featherboard
+  - D0 = Trigger input from relay
+  - GND = Relay Ground
+  - D10 = NeoPixel Data pin
+  - 3.3v (USB-C) = NeoPixel V+
+- NeoPixel RGBW LED
 
 Note:
 - The NeoPixels are powered from the Adafruit KB2040 USB-C 3.3V
