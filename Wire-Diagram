@@ -1,11 +1,19 @@
-### Motorola Minito-V Accessory Port (5 Pin DIN connector)
-    Pin 2----- KB2040 D0 pin
-    Pin 3----- KB2040 Ground Pin
+# NeoPixel Wiring with Motorola Minito-V Accessory Port
 
-### Neo Pixel RGBW LED Lights (3 wired in series)
-    KB2040 D10---- NeoPixel DIN
-    KB2040 3.3v---- NeoPixel V+
-    KB2040 GND---- NeoPixel GND
+### Wiring Instructions
 
+#### Motorola Minito-V Accessory Port (5 Pin DIN connector)
+- Pin 2 → KB2040 D0 pin  
+- Pin 3 → KB2040 Ground Pin  
+
+#### NeoPixel RGBW LED Lights (3 wired in series)
+- KB2040 D10 → NeoPixel DIN  
+- KB2040 3.3V → NeoPixel V+  
+- KB2040 GND → NeoPixel GND  
+
+---
+
+### Wiring Diagram
+![NeoPixel Wiring Diagram](images/neo_pixel_wiring.jpg)
 
 
