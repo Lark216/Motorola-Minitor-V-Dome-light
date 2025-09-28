@@ -1,4 +1,4 @@
-# NeoPixel Wiring with Motorola Minito-V Accessory Port
+# NeoPixel Wiring with Motorola Minitor-V Accessory Port
 
 ### Wiring Instructions
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Wiring Diagram
+### Motorola Minitor V DIN Pin out
 ![Wire-Diagram](images/Motorola_Minitor_V_DIN_Connection.jpg)
 
 
