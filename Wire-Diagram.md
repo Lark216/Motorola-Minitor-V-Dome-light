@@ -2,7 +2,7 @@
 
 ### Wiring Instructions
 
-#### Motorola Minito-V Accessory Port (5 Pin DIN connector)
+#### Motorola Minitor-V Accessory Port (5 Pin DIN connector)
 - Pin 2 → KB2040 D0 pin  
 - Pin 3 → KB2040 Ground Pin  
 
