@@ -14,6 +14,6 @@
 ---
 
 ### Wiring Diagram
-![Wire-Diagram](images/Motorola Minitor V DIN Connection.jpg )
+![Wire-Diagram](images/Motorola_Minitor_V_DIN_Connection.jpg)
 
 
